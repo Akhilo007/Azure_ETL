@@ -1,0 +1,22 @@
+[
+    {
+        "url":"Akhilo007/DataSets/refs/heads/main/DailyDelhiClimateTest.csv",
+        "dir":"DelhiClimate",
+        "file":"DailyDelhiClimateTest.csv"
+    },
+    {
+        "url":"Akhilo007/DataSets/refs/heads/main/car_data.csv",
+        "dir":"Cars",
+        "file":"Car.csv"
+    },
+    {
+        "url":"Akhilo007/DataSets/refs/heads/main/cosmetics_DataSet.csv",
+        "dir":"Cosmetics",
+        "file":"Cosmetics.csv"
+    },
+    {
+        "url":"Akhilo007/DataSets/refs/heads/main/transactions.csv",
+        "dir":"Transaction",
+        "file":"transaction.csv"
+    }
+]
